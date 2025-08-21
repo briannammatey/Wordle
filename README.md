@@ -22,3 +22,9 @@ A fully functional, browser-based clone of the popular game **Wordle**, built fr
 - **JavaScript** – game logic, word validation, DOM manipulation
 
 ---
+Key Inclusions
+- Uses an API to validate if it is a real world
+- Makes sure that the word resets everytime
+- If the letter is in the word but in the wrong spot the tile is yellow
+- if it is in the right spot the tile is green
+- I reset the line each time
