@@ -12,7 +12,7 @@ A fully functional, browser-based clone of the popular game **Wordle**, built fr
 - 📱 Responsive layout for desktop and mobile screens
 - 🔁 Word randomization on each refresh
 - 🎉 Win/loss detection with result messages
-<img src="https://github.com/briannammatey/Wordle/blob/main/wordle.png?raw=true" alt="Wordle Logo" width="400" height = 500/>
+<img src="https://github.com/briannammatey/Wordle/blob/main/wordle.png?raw=true" alt="Wordle Logo" width="400"/>
 
 ---
 
