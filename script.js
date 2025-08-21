@@ -56,6 +56,7 @@ window.onload = function(){
     initialize()
     document.getElementById("playAgain").addEventListener("click", () => {
         reset();
+        word = random();
     });
 }
 
