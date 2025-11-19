@@ -1,9 +1,11 @@
-# 🔤 Wordle Clone
+# Brianna's Wordle Clone
 
 A fully functional, browser-based clone of the popular game **Wordle**, built from scratch using **HTML**, **CSS**, and **JavaScript**. This project replicates the core gameplay experience, offering a clean interface, responsive design, and interactive feedback for each guess.
 
----
 
+---
+## Why I made this?
+For fun, I wanted to learn web development and Javascript so why not
 ##  Features
 
 -  5-letter word guessing game with 6 attempts
@@ -24,8 +26,8 @@ A fully functional, browser-based clone of the popular game **Wordle**, built fr
 
 ---
 Key Inclusions
-- Uses an API to validate if it is a real world
+- Uses an API to validate if it is a real-world
 - Makes sure that the word resets everytime
-- If the letter is in the word but in the wrong spot the tile is yellow
+- If the letter is in the word but in the wrong spot, the tile is yellow
 - if it is in the right spot the tile is green
 - I reset the line each time
