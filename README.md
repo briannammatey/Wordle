@@ -4,19 +4,19 @@ A fully functional, browser-based clone of the popular game **Wordle**, built fr
 
 ---
 
-## ✅ Features
+##  Features
 
-- 🎯 5-letter word guessing game with 6 attempts
-- 🎨 Color-coded feedback for correct, misplaced, and incorrect letters
-- ⌨️ Supports both physical keyboard and on-screen keyboard input
-- 📱 Responsive layout for desktop and mobile screens
-- 🔁 Word randomization on each refresh
-- 🎉 Win/loss detection with result messages
+-  5-letter word guessing game with 6 attempts
+-  Color-coded feedback for correct, misplaced, and incorrect letters
+-  Supports both physical keyboard and on-screen keyboard input
+-  Responsive layout for desktop and mobile screens
+-  Word randomization on each refresh
+-  Win/loss detection with result messages
 <img src="https://github.com/briannammatey/Wordle/blob/main/wordle.png?raw=true" alt="Wordle Logo" width="400"/>
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - **HTML** – page structure and game board  
 - **CSS** – styling, layout, transitions  
